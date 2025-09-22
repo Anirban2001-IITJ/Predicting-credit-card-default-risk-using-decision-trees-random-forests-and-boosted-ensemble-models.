@@ -1,0 +1,5 @@
+This project aims to predict the likelihood of credit card default by analyzing customer financial and demographic data. 
+We apply machine learning models including decision trees, random forests, and boosted decision trees, 
+with 5-fold cross-validation for hyperparameter tuning.
+The goal is to evaluate model performance using accuracy, precision, recall, F1-score, 
+and ROC AUC to identify the most effective approach for default risk prediction.
