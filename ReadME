@@ -1,3 +1,8 @@
+Accurately predicting credit card defaults is crucial for financial institutions to minimize losses, 
+improve risk management, and design responsible lending policies.
+Early identification of high-risk customers helps in proactive interventions,
+ensuring financial stability for both lenders and borrowers
+
 This project aims to predict the likelihood of credit card default by analyzing customer financial and demographic data. 
 We apply machine learning models including decision trees, random forests, and boosted decision trees, 
 with 5-fold cross-validation for hyperparameter tuning.
